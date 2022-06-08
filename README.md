@@ -2,10 +2,21 @@
 <div id="header" align="center">
   <img src="./brain_electron.gif" width="400"/>
 </div>
+
+<hr>
+<h3 align="center"> Hi there 👋 </h3>
+
+<div class="alert alert-success">
+  <h2 align="center">I'm Zephania Reuben</h2>
+  <h5 align="center">Machine Learnist</h5>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nsomazr&style=flat-square&color=blue"  alt=""/>
+  </div>
 <hr>
 <div id="badges" align="center">
     <a href="https://t.me/nsomazr">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/zephania-reuben-a42233185/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,16 +29,23 @@
   </a>
 </div>
 <hr>
-<h3 align="center"> Hi there 👋 </h3>
 
-<div class="alert alert-success">
-  <h2 align="center">I'm Zephania Reuben</h2>
-  <h5 align="center">Machine Learnist</h5>
+<!--### :mechanical_arm: Projects: -->
+
+
+
+
+<!-- ### :man_teacher: Facilitation : -->
+
+<div>
+  <h2></h2>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nsomazr&style=flat-square&color=blue"  alt=""/>
-  </div>
-<hr>
+
+<div>
+  
+</div>
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,9 +69,22 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-
 </div>
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nsomazr&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsomazr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsomazr&show_icons=true&theme=merko)
+
+<div align="center">
+  <h3>😄😄😄</h3> 
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
 <!--
 **nsomazr/nsomazr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
