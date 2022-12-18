@@ -68,9 +68,9 @@
 ### :fire: My Stats :
 <div id="header" align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isackodero&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nsomazr&theme=dark&background=000000)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsomazr&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isackodero&layout=compact&theme=vision-friendly-dark)](https://github.com/nsomazr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsomazr&layout=compact&theme=vision-friendly-dark)](https://github.com/nsomazr/github-readme-stats)
 
 </div>
 
