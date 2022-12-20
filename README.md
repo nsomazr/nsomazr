@@ -69,7 +69,9 @@
 <div id="header" align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nsomazr&theme=dark&background=000000)](https://git.io/streak-stats)
+  <hr>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsomazr&show_icons=true&theme=merko)
+  <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsomazr&layout=compact&theme=vision-friendly-dark)](https://github.com/nsomazr/github-readme-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsomazr&theme=tokyonight&hide=css,html)   -->
 
