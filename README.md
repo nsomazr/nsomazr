@@ -7,7 +7,7 @@
 
 <div class="alert alert-success">
   <h2 align="center">I'm Zephania Reuben</h2>
-  <h5 align="center">Computer Programmer</h5>
+  <h5 align="center">Machine Learning Developer</h5>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nsomazr&style=flat-square&color=blue"  alt=""/>
